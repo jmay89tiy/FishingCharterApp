@@ -1,0 +1,51 @@
+@media (max-width:575px) {
+    .display-4 {
+        font-size: 1.5rem;
+    }
+    .day h5 {
+        background-color: #f8f9fa;
+        padding: 3px 5px 5px;
+        margin: -8px -8px 8px -8px;
+    }
+    .date {
+        padding-left: 4px;
+    }
+}
+
+@media (min-width: 576px) {
+    .day {
+        height: 14.2857vw;
+    }
+}
+
+.container-fluid {
+    width: 75%;
+    height: 50%;
+
+}
+
+.jumbotron-fluid {
+background-size: cover;
+}
+
+.display-4 mb-4 text-center {
+    padding-bottom: 2%;
+}
+
+#jumboBox {
+    background-image: url("https://images.unsplash.com/photo-1545450660-3378a7f3a364?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+    background-size: 100% 100%;
+    height: 750px;
+    
+}
+
+#thumbRow {
+    display: inline-flex;
+    width: 90%;
+    margin-top: 3em;
+    margin-left: 16.5%;
+}
+
+.card {
+    margin: 20px;
+}
