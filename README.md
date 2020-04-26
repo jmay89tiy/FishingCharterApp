@@ -1,6 +1,16 @@
 # FishingCharterApp
 This is a fishing charter app powered by bootstrap, JS, and more.
 
+The concept of this is A website that hosts local "last minute savings" on fishing charters. In it's ideal state we will have developed a React front-end that displays a dynamic booking calendar, controlled by a React-Native app used for posting charter trips as captains as well as confirming new charters have been booked by customers coming from the site.
+
+To Do List:
+-----------------------------------------
+1. Create dynamic booking calendar in React
+2. Create React-Native app for Captains to post charter trips to the main calendar
+3. Establish CRUD for dynamic calendar
+4. Establish database of choice
+5. and more.
+
 
 This app features the following languages:
 ------------------------------------------
